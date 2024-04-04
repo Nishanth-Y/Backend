@@ -1,9 +1,12 @@
 {
-  "name": "Portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "type": "commonjs",
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "start": "node server.js"
   },
