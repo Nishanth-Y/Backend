@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "type": "commonjs",
   "scripts": {
-    "start": "node server",
-    "server": "nodemon server"
+    "start": "node server.js"
   },
   "author": "Batch 2",
   "license": "MIT",
