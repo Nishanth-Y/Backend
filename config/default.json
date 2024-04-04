@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@cluster0.mplvb6j.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mynishu",
+  "githubToken": "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"
+}
