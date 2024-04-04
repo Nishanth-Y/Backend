@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "server": "nodemon server",
-    "vercel-build": "echo hello"
+    "server": "nodemon server"
   },
   "author": "Batch 2",
   "license": "MIT",
